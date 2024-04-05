@@ -1,0 +1,57 @@
+body
+{
+    margin-top: 40px;
+    font-variant: small-caps;
+    background: black;
+}
+h1,h4
+{
+    color: gold;
+    text-shadow: white 0px 0px 10px;
+    text
+}
+h3
+{
+    font-size: 40px;
+}
+table
+{
+    border: solid white 2px;
+}
+input.play
+{
+    height: 50px;
+    width: 170px;
+    background: green;
+    text-align: center;
+    border: solid 2px white;
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 5px;
+}
+input.res
+{
+    height:50px;
+    width: 170px;
+    background: yellow;
+    font-size: 30px;
+    color: green;
+    font-weight: bolder;
+    text-align: center;
+    border: solid green 2px;
+    border-radius: 5px;
+}
+input.inp
+{
+    font-size: 80px;
+    width: 100px;
+    height: 100px;
+    background: transparent;
+    border: solid white 2px;
+}
+div[id=com]
+{
+    font-size: 30px;
+    color: red;
+}
