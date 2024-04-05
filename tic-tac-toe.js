@@ -64,28 +64,28 @@ function reset()
 }
 function cross()
 {
-    audio=new Audio("/storage/emulated/0/HTML codes/media/audio/cross click.mp3");
+    audio=new Audio("cross click.mp3");
     audio.play();
 }
 function circle()
 {
-    audio=new Audio("/storage/emulated/0/HTML codes/media/audio/circle click.mp3");
+    audio=new Audio("circle click.mp3");
     audio.play();
 }
 function start()
 {
-    audio=new Audio("/storage/emulated/0/HTML codes/media/audio/beep click.mp3");
+    audio=new Audio("beep click.mp3");
     audio.play();
     f1();
 }
 function win()
 {
-    audio=new Audio("/storage/emulated/0/HTML codes/media/audio/win sound.mp3");
+    audio=new Audio("win sound.mp3");
     audio.play();
 }
 function draw()
 {
-    audio=new Audio("/storage/emulated/0/HTML codes/media/audio/draw sound.mp3");
+    audio=new Audio("draw sound.mp3");
     audio.play();
 }
 function cal(p)
