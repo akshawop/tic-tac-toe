@@ -4,6 +4,10 @@ body
     font-variant: small-caps;
     background: black;
 }
+div
+{
+    position: absolute;
+}
 h1,h4
 {
     color: gold;
@@ -50,7 +54,7 @@ input.inp
     background: transparent;
     border: solid white 2px;
 }
-div[id=com]
+#com
 {
     font-size: 30px;
     color: red;
