@@ -64,28 +64,28 @@ function reset()
 }
 function cross()
 {
-    audio=new Audio("cross click.mp3");
+    audio=new Audio("audio/cross click.mp3");
     audio.play();
 }
 function circle()
 {
-    audio=new Audio("circle click.mp3");
+    audio=new Audio("audio/circle click.mp3");
     audio.play();
 }
 function start()
 {
-    audio=new Audio("beep click.mp3");
+    audio=new Audio("audio/beep click.mp3");
     audio.play();
     f1();
 }
 function win()
 {
-    audio=new Audio("win sound.mp3");
+    audio=new Audio("audio/win sound.mp3");
     audio.play();
 }
 function draw()
 {
-    audio=new Audio("draw sound.mp3");
+    audio=new Audio("audio/draw sound.mp3");
     audio.play();
 }
 function cal(p)
