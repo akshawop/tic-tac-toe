@@ -8,6 +8,7 @@ div
 {
     display: grid;
     place-items: center;
+    vertical-align: middle;
 }
 h1,h4
 {
