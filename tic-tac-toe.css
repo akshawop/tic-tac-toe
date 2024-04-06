@@ -6,8 +6,8 @@ body
 }
 div
 {
-    display: flex;
-    position: absolute;
+    display: grid;
+    place-items: center;
 }
 h1,h4
 {
