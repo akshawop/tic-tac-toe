@@ -8,7 +8,9 @@ div
 {
     display: grid;
     place-items: center;
-    vertical-align: middle;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 h1,h4
 {
