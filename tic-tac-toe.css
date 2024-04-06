@@ -6,6 +6,9 @@ body
 }
 div
 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: absolute;
 }
 h1,h4
