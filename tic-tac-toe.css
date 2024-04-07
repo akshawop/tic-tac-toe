@@ -1,6 +1,9 @@
+html
+{
+    display: flex;
+}
 body
 {
-    margin: auto;
     font-variant: small-caps;
     background: black;
     display: flex;
