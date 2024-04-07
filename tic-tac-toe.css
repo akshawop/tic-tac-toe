@@ -3,11 +3,15 @@ body
     margin: auto;
     font-variant: small-caps;
     background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 div
 {
-    display: grid;
-    place-items: center;
+    display: inline-block;
+    text-align: center;
 }
 h1,h4
 {
