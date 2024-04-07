@@ -1,6 +1,9 @@
 html
 {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 body
 {
@@ -20,7 +23,6 @@ h1,h4
 {
     color: gold;
     text-shadow: white 0px 0px 10px;
-    text
 }
 h3
 {
