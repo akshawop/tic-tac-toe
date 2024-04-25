@@ -1,3 +1,8 @@
+function bgm()
+{
+    let bgm= document.querySelector("audio");
+    bgm.play();
+}
 var f=1, c=-1;
 var arr=[[],[],[]];
 function f1()
