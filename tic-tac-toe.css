@@ -43,6 +43,7 @@ h3 {
 table {
       border: solid greenyellow 2px;
       border-radius: 10px;
+      display: inline-block;
   }
   
 .play {
